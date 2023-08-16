@@ -1,10 +1,12 @@
 # Dbms_Series
 
-Hi all, In this repo you can find all the notes of the on-going DBMS Series on my youtube channel : https://youtube.com/@RitiKumari
+Hi all, In this repo you can find all the notes of the on-going DBMS Series on my 
 
-You can find the DBMS Series here : https://www.youtube.com/playlist?list=PLrL_PSQ6q062cD0vPMGYW_AIpNg6T0_Fq
+Youtube channel : https://youtube.com/@RitiKumari
 
-Notes are attached above, happy learnig :)
+Playlist link (DBMS Series) : https://www.youtube.com/playlist?list=PLrL_PSQ6q062cD0vPMGYW_AIpNg6T0_Fq
+
+Notes are attached above "keep learning, keep growing" :)
 
 You can also connect me here 👇
 
