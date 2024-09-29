@@ -12,5 +12,5 @@ You can also connect me here 👇
 
 Linkedin : https://www.linkedin.com/in/riti2409
 Telegram : https://telegram.me/ritikumari
-Instagram : https://instagram.com/ritikumariupadh...
+Instagram : https://www.instagram.com/ritikumariupadhyay24/
 Twitter : https://x.com/riti2409
