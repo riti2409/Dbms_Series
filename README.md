@@ -1,5 +1,7 @@
 # Dbms_Series
-
+# Contributor(only for editing purpose as this is my part of college practical)
+<br> 
+Siddiqua Abedeen
 Hi all, In this repo you can find all the notes of the on-going DBMS Series on my 
 
 Youtube channel : https://youtube.com/@RitiKumari
